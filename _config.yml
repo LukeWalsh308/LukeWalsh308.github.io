@@ -23,9 +23,9 @@ repository               : "https://LukeWalsh308.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Luke Walsh"
   pronouns         : # example: "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate | University of Liverpool"
   location         : "Liverpool"
   employer         : "University of Liverpool"
   uri              : # URL
