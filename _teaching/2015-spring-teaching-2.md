@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Introductory Econometrics for Business and Economics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+external_link: https://www.liverpool.ac.uk/info/portal/pls/portal/tulwwwmerge.mergepage?p_template=m_bl&p_tulipproc=moddets&p_params=%3Fp_module_id%3D199608
+venue: "University of Liverpool, Department of Economics"
+date: 2023-09-01
+location: "Liverpool, UK"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
