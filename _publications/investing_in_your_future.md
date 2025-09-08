@@ -1,7 +1,7 @@
 ---
 title: "Investing in Your Future? How the Cost of University Shapes Labour Market Outcomes"
 collection: publications
-category: books
+category: manuscripts
 excerpt: '**Abstract:** Increases in the cost of higher education raise concerns about the returns to human capital
 and the extent to which financial barriers restrict access, yet little is known about their effects
 in settings without credit constraints. This study leverages a natural experiment in which the
