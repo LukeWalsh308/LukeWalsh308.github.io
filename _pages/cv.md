@@ -11,5 +11,5 @@ redirect_from:
 
 <!-- Embedding PDF hosted in GitHub repository --> 
 
-<div style="text-align: center;"> <h2>My CV</h2> <iframe src="{{ site.baseurl }}/assets/CV (2).pdf" width="100%" height="600px"></iframe> </div>
+<div style="text-align: center;"> <h2>My CV</h2> <iframe src="{{ site.baseurl }}/assets/CV (3).pdf" width="100%" height="600px"></iframe> </div>
 
