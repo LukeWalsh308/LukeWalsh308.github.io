@@ -17,8 +17,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Profile"
-    url: /profile/
+  #- title: "Profile"
+   # url: /profile/
     
   # - title: "CV"
   #   url: /cv-json/
