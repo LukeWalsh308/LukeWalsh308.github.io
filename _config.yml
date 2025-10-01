@@ -128,7 +128,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : "google-site-verification=P3fUWnydTQ_49DB6nkHcRfeIVaGK_ym0od0VxD_uhlw"
+google_site_verification : <meta name="google-site-verification" content="5XdJh0sEcZS3cRLidkH8IHh4U6vpEsK-sKcpcOD3CiE" />
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
