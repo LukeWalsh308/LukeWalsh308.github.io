@@ -1,5 +1,5 @@
 ---
-title: "Applied Micreconomics"
+title: "Applied Microeconometrics"
 collection: teaching
 type: "Master's course, seminar leader"
 venue: "University of Liverpool, Department of Economics"
